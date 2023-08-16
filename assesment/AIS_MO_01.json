@@ -1,7 +1,7 @@
 {
 "instruction_set":[
   {
-    "description": "TestCase01: Verify the title of the homepage",
+    "description": "TestCase01: Verify the url of the homepage",
     "validations": [
       {
         "object_notation": "COMMAND",
@@ -18,7 +18,7 @@
     "hint": "Ensure you go to amazon india website"
   },
   {
-    "description": "TestCase01: Verify the title of the homepage",
+    "description": "TestCase01: Verify the url of the homepage",
     "validations": [
       {
         "object_notation": "COMMAND",
